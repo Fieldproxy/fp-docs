@@ -1,5 +1,5 @@
 ---
-id: greeting
+id: invitations
 title: Sending Invitations
 ---
 
