@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # Introduction
 
-Let's discover **Fieldproxy in less than 5 minutes**.
+Fieldproxy is one of the best tools for getting your field teams optimised, automated, and ready to go. There's a lot that's possible with Fieldproxy, and it only takes a few clicks here and there to set it all up.
+
+But just in case you're stuck, you can always come back to this space for help. So, ready to get started on your amazing journey with Fieldproxy?
+
+Awesome! Let's start with a quick understanding of **Fieldproxy in less than 5 minutes**.
 
 ## Getting Started
 
