@@ -10,6 +10,8 @@ But just in case you're stuck, you can always come back to this space for help. 
 
 Awesome! Let's start with a quick understanding of **Fieldproxy in less than 5 minutes**.
 
+![Welcome To Fieldproxy](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1631166263332Frame%2054.jpg)
+
 ## Getting Started
 
 Get started by **creating a new account**.
