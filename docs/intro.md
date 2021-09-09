@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+## Welcome To Fieldproxy
 
 Fieldproxy is one of the best tools for getting your field teams optimised, automated, and ready to go. There's a lot that's possible with Fieldproxy, and it only takes a few clicks here and there to set it all up.
 
@@ -12,13 +12,17 @@ Awesome! Let's start with a quick understanding of **Fieldproxy in less than 5 m
 
 ![Welcome To Fieldproxy](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1631166263332Frame%2054.jpg)
 
-## Getting Started
+### What Is Fieldproxy?
+
+
+
+### Getting Started
 
 Get started by **creating a new account**.
 
 Visit **[client.fieldproxy.com](https://client.fieldproxy.com/signup)** to create a new account for your organization.
 
-## Login
+### Login
 
 If already signed up login via **[Login](https://client.fieldproxy.com/login)**
 
