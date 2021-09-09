@@ -4,7 +4,7 @@ title: Sending Invitations
 ---
 
 
-## Inviting Members To Fieldproxy
+### Inviting Members To Fieldproxy
 
 Once you've **[added your teammates](http://docs.fieldproxy.com/docs/Getting%20Started/upload-users/)**, the next step is to send them an invitation to be able to access the application.
 
