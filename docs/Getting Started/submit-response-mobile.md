@@ -1,5 +1,5 @@
 ---
-id: greeting
+id: submit-responses
 title: Submitting Responses (Mobile)
 ---
 
