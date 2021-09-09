@@ -1,5 +1,5 @@
 ---
-id: greeting
+id: dashboard
 title: Hello
 ---
 
