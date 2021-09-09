@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+
+id: intro
+title: Introduction
 ---
 
 ## Welcome To Fieldproxy
