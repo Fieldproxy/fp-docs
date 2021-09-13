@@ -17,6 +17,7 @@ Awesome! Let's start with a quick understanding of **Fieldproxy in less than 5 m
 
 ### What Is Fieldproxy?
 
+Fieldproxy is your one-stop solution for everything related to automating your field sales teams. From attendance monitoring to expense tracking and real-time location notifications, automating your sales teams is as easy as counting to ten on your fingers. We're sure you're going to love Fieldproxy as you get to know it better. But first, let's get you signed up and ready to go. Access the links in the below sections to create your own teams and manage them.
 
 
 ### Getting Started
@@ -27,7 +28,6 @@ Visit **[client.fieldproxy.com](https://client.fieldproxy.com/signup)** to creat
 
 ### Login
 
-If already signed up login via **[Login](https://client.fieldproxy.com/login)**
+If already signed up, you can login via **[Login](https://client.fieldproxy.com/login)**
 
-Create a new workflow site using existing templates.
-
+Once this is done, you can move on to the next tutorial page - **Getting Started**
