@@ -11,7 +11,7 @@ There are two ways you can add your team, actually - manually add a member, or j
 
 #### Manual Addition
 
-To manually add a user/employee to the team, just navigate to the **[Teams](https://attendance.fieldproxy.com/attendanceproxy/home/team**)** page and click on the "**Add User**" icon.
+To manually add a user/employee to the team, just navigate to the **[Teams](https://attendance.fieldproxy.com/attendanceproxy/home/team)** page and click on the "**Add User**" icon.
 
 Notice how a form slides into view? Use that form to fill out information about the employee/user you want to add to the team.
 
