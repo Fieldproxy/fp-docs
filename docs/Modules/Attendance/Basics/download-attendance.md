@@ -15,7 +15,7 @@ Downloading your team's attendance records is as easy as clicking a button. Lite
 - Here, you can just filter the data as required, by simply click on various parts of the chart.
 - To download the attendance report that you've now customized, all you have to do is click on the little cloud icon on the top right corner of the Attendance section.
 
-![Download Attendance Report](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1631588247697bandicam_2021-09-14_08-20-47-494_SparkVideo.gif)
+<img src="https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1631597347549bandicam_2021-09-14_10-07-15-470_SparkVideo%20%281%29.gif" alt = "Download Attendance Report" width="720" height="500" />
 
 And just like that, your attendance report is downloaded as a local copy.
 
