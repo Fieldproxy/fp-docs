@@ -1,6 +1,6 @@
 ---
 id: attendance-mod
-title: Introduction To Attendance Proxy
+title: Introduction
 ---
 
 ### Managing Your Employees' Timesheets Just Became A Whole Lot Easier
