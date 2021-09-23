@@ -17,9 +17,13 @@ Modules help by giving you exactly what you need. And if at any point of time yo
 
 ### How Many Modules Does Fieldproxy Have?
 
-At present, Fieldproxy is really proud of its only module - **Attendance Proxy**
+Fieldproxy currently has two moduules under its belt - **AttendanceProxy And SalesProxy**
 
-We're also working on our latest module **Sales Proxy** scheduled to launch within the next couple weeks.
+**[AttendanceProxy](https://fieldproxy.com/?utm_source=module_intro&utm_medium=prod_docs&utm_campaign=prod_docs)** is a one-of-its-kind attendance monitoring and location tracking solution for field teams.
 
-We can't wait to share it with you. It's going to be a blast. If you want to stay updated on our new releases, **[sign up for your newletter. It's FREE](https://fieldproxydbytes.substack.com/)**
+**[SalesProxy](https://fieldproxy.com/sales-proxy.html?utm_source=module_intro&utm_medium=prod_docs&utm_campaign=prod_docs)** deals with sales tracking and management, agent metrics and geofencing.
+
+![Get Fieldproxy field service management tool](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1632382948844Screenshot%20from%202021-09-23%2012-51-30.png)
+
+We're always working on building new modules and can't wait to share them with you. It's going to be a blast. If you want to stay updated on our new releases, **[sign up for your newletter. It's FREE](https://fieldproxydbytes.substack.com/)**
 
