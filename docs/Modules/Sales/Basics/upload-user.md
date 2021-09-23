@@ -21,7 +21,7 @@ We recommend using this whenever you want to quickly add an employee or two to t
 
 #### Importing Users
 
-To add multiple users/employees to your team in one go, just follow the same procedure and navigate to the **[Teams](https://attendance.fieldproxy.com/attendanceproxy/home/team)** page. Instead of clicking on the "**Add User**" icon, click on the "**Import Users**" cloud icon.
+To add multiple users/employees to your team in one go, just follow the same procedure and navigate to the **[Teams](https://client.fieldproxy.com/salesproxy/)** page. Instead of clicking on the "**Add User**" icon, click on the "**Import Users**" cloud icon.
 
 In the form that slides in, you have an option to upload the employee data as a spreadsheet.
 
