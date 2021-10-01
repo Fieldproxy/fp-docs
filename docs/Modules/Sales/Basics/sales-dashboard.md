@@ -29,10 +29,19 @@ You can click on the eport icon to take an excel export of the data your team ha
 
 SalesProxy's dashboard has interactive statistical charts, each of which displays data for a particular range.
 
-### 
+### New Customers
 
+Any new customers added will automatically be mapped on this chart. You can always click on the above mentioned cards to get the info on these new customers.
 
-![Fieldproxy Dashboard](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1632390520914Screenshot%20from%202021-09-23%2013-16-59.png)
+### Visits
+
+A count of the total visits completed by your field teams is displayed here.
+
+### Map View
+
+The map displays exactly where your employees are recording their responses from. You can even find the responses fixed to one side of the map for easier access and identification
+
+![Fieldproxy Dashboard](https://fpobstore.s3.sng01.cloud-object-storage.appdomain.cloud/1633085539442Screenshot%20from%202021-10-01%2016-22-10.png)
 
 Hope this helps!
 
