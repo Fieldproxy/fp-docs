@@ -22,6 +22,7 @@ Fieldproxy is your one-stop solution for everything related to automating your f
 We're sure you're going to love Fieldproxy as you get to know it better. But first, **let's get you signed up and ready to go**. Access the links in the below sections to create your own teams and manage them.
 
 
+
 ### Getting Started
 
 Get started by **creating a new account**.
